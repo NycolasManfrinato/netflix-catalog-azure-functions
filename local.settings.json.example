@@ -1,0 +1,12 @@
+{
+"IsEncrypted": false,
+"Values": {
+"AzureWebJobsStorage": "UseDevelopmentStorage=true",
+"FUNCTIONS_WORKER_RUNTIME": "node",
+"STORAGE_CONNECTION_STRING": "<sua-connection-string-do-storage-account>",
+"STORAGE_CONTAINER_NAME": "capas",
+"COSMOS_CONNECTION_STRING": "<sua-connection-string-do-cosmos-db>",
+"COSMOS_DATABASE_NAME": "NetflixCatalogDB",
+"COSMOS_CONTAINER_NAME": "Catalogo"
+}
+}
